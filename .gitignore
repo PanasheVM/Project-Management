@@ -1,0 +1,13 @@
+.env
+.expo/
+.idea/
+.vscode/
+dist/
+coverage/
+target/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.iml
+*.log
+.DS_Store
